@@ -1,4 +1,4 @@
 <?php
-		$_['datev'] = date('F');
+//Output date in English
+$_['datev'] = date('F');
 
-		//$_['datev'][(date('n'))]
