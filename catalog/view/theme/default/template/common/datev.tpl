@@ -1,3 +1,4 @@
+<!-- Date display -->
 <div id="datev" class="input-group">
 	<span>
 	<?php 
